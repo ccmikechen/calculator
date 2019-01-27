@@ -1,0 +1,9 @@
+I:\計算\計算\obj\x86\Debug\計算.Form1.resources
+I:\計算\計算\obj\x86\Debug\計算.Resources.resources
+I:\計算\計算\obj\x86\Debug\計算.vbproj.GenerateResource.Cache
+I:\計算\計算\bin\Debug\計算.exe
+I:\計算\計算\bin\Debug\計算.pdb
+I:\計算\計算\bin\Debug\計算.xml
+I:\計算\計算\obj\x86\Debug\計算.exe
+I:\計算\計算\obj\x86\Debug\計算.xml
+I:\計算\計算\obj\x86\Debug\計算.pdb
